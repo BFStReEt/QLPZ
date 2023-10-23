@@ -1,0 +1,238 @@
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\EntityFramework.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Guna.UI2.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\System.Data.SqlClient.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zxing.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zxing.presentation.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\EnvDTE.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\stdole.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Microsoft.MSXML.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\EntityFramework.xml
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\System.Data.SqlClient.xml
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zxing.xml
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zxing.presentation.xml
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\obj\Debug\Quanlyquanan.csproj.GenerateResource.cache
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\obj\Debug\Quanlyquanan.csproj.CoreCompileInputs.cache
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\obj\Debug\Quanlyquanan.csproj.CopyComplete
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\obj\Debug\Quanlyquanan.FQuanLy.resources
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\obj\Debug\Quanlyquanan.Properties.Resources.resources
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\obj\Debug\Quanlyquanan.FLogin.resources
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Quanlyquanan.exe.config
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Quanlyquanan.exe
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\bin\Debug\Quanlyquanan.pdb
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\obj\Debug\Quanlyquanan.exe
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\obj\Debug\Quanlyquanan.pdb
+F:\C#\doan_quanlyquanan - Copy (2)\DOAN\obj\Debug\Quanlyquanan.csproj.AssemblyReference.cache
+F:\C#\Winform_QLQuanAn\DOAN\obj\Debug\Quanlyquanan.FLogin.resources
+F:\C#\Winform_QLQuanAn\DOAN\obj\Debug\Quanlyquanan.FQuanLy.resources
+F:\C#\Winform_QLQuanAn\DOAN\obj\Debug\Quanlyquanan.csproj.GenerateResource.cache
+F:\C#\Winform_QLQuanAn\DOAN\obj\Debug\Quanlyquanan.exe
+F:\C#\Winform_QLQuanAn\DOAN\obj\Debug\Quanlyquanan.pdb
+F:\C#\Winform_QLQuanAn\DOAN\obj\Debug\Quanlyquanan.Properties.Resources.resources
+F:\C#\Winform_QLQuanAn\DOAN\obj\Debug\Quanlyquanan.csproj.CoreCompileInputs.cache
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Quanlyquanan.exe.config
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Quanlyquanan.exe
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Quanlyquanan.pdb
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\EntityFramework.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Guna.UI2.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\System.Data.SqlClient.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zxing.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zxing.presentation.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\EnvDTE.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\stdole.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\Microsoft.MSXML.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\EntityFramework.xml
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\System.Data.SqlClient.xml
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zxing.xml
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zxing.presentation.xml
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C#\Winform_QLQuanAn\DOAN\obj\Debug\Quanlyquanan.csproj.CopyComplete
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Quanlyquanan.exe.config
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Quanlyquanan.exe
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Quanlyquanan.pdb
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\EntityFramework.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\EntityFramework.SqlServer.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Guna.UI2.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\System.Data.SqlClient.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zxing.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zxing.presentation.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\EnvDTE.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\stdole.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\Microsoft.MSXML.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\EntityFramework.xml
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\EntityFramework.SqlServer.xml
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\System.Data.SqlClient.xml
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zxing.xml
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zxing.presentation.xml
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.csproj.AssemblyReference.cache
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.csproj.SuggestedBindingRedirects.cache
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.FLogin.resources
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.FQuanLy.resources
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.Properties.Resources.resources
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.csproj.GenerateResource.cache
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.csproj.CoreCompileInputs.cache
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.csproj.CopyComplete
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.exe
+D:\QLPZ\Winform_QLQuanAn\QLPZ\obj\Debug\Quanlyquanan.pdb
